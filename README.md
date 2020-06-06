@@ -43,26 +43,3 @@
     ![11](https://github.com/19012001nastiad/Lab-8/blob/master/8.jpg) 
     ![12](https://github.com/19012001nastiad/Lab-8/blob/master/9.jpg) 
 
-2. Компонент для редактирования списка занятий 
-
-    ![kek1](https://sun9-41.userapi.com/c857636/v857636935/1d1602/J3PFOIwEENA.jpg)
-
-3. Компонент для редактирования списка элементов 
-   
-   ![kek2](https://sun9-43.userapi.com/c205816/v205816107/eb64a/7A-dljgUgMQ.jpg)
-
-4. Выполнение программы видно на следующих скриншотах.
-    
-    - Добавляем студента
-
-    ![kek3](https://sun9-16.userapi.com/c857636/v857636935/1d1643/NiTtM25s3rU.jpg)
-
-    - Удаляем студента
-
-    ![2](https://sun9-16.userapi.com/c857636/v857636935/1d1691/H6_t69ueA5Q.jpg)
-
-    - Добавление и удаление занятий
-
-    ![да](https://sun9-32.userapi.com/c857636/v857636935/1d16c1/qRSacMcTw-4.jpg)
-    ![да](https://sun9-60.userapi.com/c857636/v857636935/1d16c9/QBlnp8hFb3c.jpg)
-
